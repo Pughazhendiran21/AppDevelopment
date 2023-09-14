@@ -1,0 +1,50 @@
+.App {
+  text-align: initial;
+}
+
+.form-group {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 200px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(21, 216, 216);
+  box-shadow: pink;
+  
+
+}
+.pugal{
+  padding-left: 1150px;
+  margin-top: 150px;
+}
+
+label {
+  display: block;
+
+  margin-bottom: 20px;
+  font-weight:bold;
+  font-style:italic;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 70%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 5cap solid #0f71da;
+  border-radius: 4px;
+}
+
+button[type="submit"] {
+  background-color: #0ed4f2;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #37daec;
+}
+
